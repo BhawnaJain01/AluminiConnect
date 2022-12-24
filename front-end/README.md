@@ -3,7 +3,13 @@
 Developed a portal where alumni can
 connect to their college / university , and
 juniors can reach out to the alumni for
-career guidance and much more 
+career guidance and much more.
+
+### Features
+1. Events Managment 
+2. Chat Room using socket.io
+3. Video Chat using webRTC
+4. Profile Management
 
 
 ## To Start The Project
